@@ -1,9 +1,10 @@
 # estudos-python-data-analysis
-Repositório dedicado aos meus trabalhos de Python, automação e processos de análise de dados
+Repositório dedicado aos meus trabalhos de Python, automação e processos de análise de dados.
+
 Bem vindo ao meu repositório de estudos! Aqui eu centralizo todos os meus códigos, scripts de automação e projetos práticos que desenvolvo enquanto aprimoro minhas habilidades
 em tecnologia e análise de dados.
 
-## Objetivos
+##  Objetivos
 * Automatizar tarefas rotineiras e processos administrativos.
 * Manipular, limpar e tratar grandes volumes de dados de forma eficiente.
 * Gerar insights visuais inteligentes através de gráficos e relatórios.
