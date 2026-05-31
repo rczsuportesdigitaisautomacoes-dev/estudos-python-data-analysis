@@ -1,0 +1,9 @@
+ID_Pedido,Data,Cliente,Produto,Quantidade,Preco_Unitario,Regiao,Status
+1001,2026-05-01,Alibaba Regional,Automacao de Processos,2,1500,Sudeste,Concluido
+1002,2026-05-02,Shopee Br,Dashboard Interativo,1,2500,Sul,Concluido
+1003,2026-05-03,Varejo Mogi,Script de Tratamento,5,800,Sudeste,Concluido
+1004,2026-05-04,Logistica SP,Automacao de Processos,1,1500,Nordeste,Concluido
+1005,2026-05-05,Tech Solutions,Consultoria Digital,3,3000,Centro-Oeste,Concluido
+1005,2026-05-05,Tech Solutions,Consultoria Digital,3,3000,Centro-Oeste,Concluido
+1006,2026-05-06,E-commerce Global,Dashboard Interativo,2,,Sudeste Concluido
+1007,2026-05-07,Clinica Alfa,Automacao de Processo,4,1500,Sul,Concluido
